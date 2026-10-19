@@ -1,0 +1,14 @@
+{
+  "name": "TOP Sports Registration",
+  "short_name": "TOP Sports",
+  "description": "Register for TOP Sports camps, hockey, soccer and lacrosse programs.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1b2a57",
+  "theme_color": "#1b2a57",
+  "icons": [
+    { "src": "https://shipper-api-production-3b99.up.railway.app/api/v1/upload/cmvb1ylb10bico40si9te1zf3/stream", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
